@@ -1,6 +1,6 @@
 # Guide for use spatie/flysystem-dropbox with short-lived tokens in Laravel 9
 
-##  spatie/flysystem-dropbox with short-lived tokens in Laravel 9
+##  spatie/flysystem-dropbox with short-lived tokens in Laravel 9|10
 
 Install spatie/flysystem-dropbox
 ```
